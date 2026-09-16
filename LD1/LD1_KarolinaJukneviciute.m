@@ -1,4 +1,6 @@
 %[text] # EDif\_25/1
+Karolina Jukneviciute
+16-09-2026
 %%
 %[text] ## Pagrindine uzduotis
 
